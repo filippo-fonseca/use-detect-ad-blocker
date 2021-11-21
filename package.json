@@ -1,12 +1,12 @@
 {
-  "name": "ts-npm-template",
+  "name": "use-detect-ad-blocker",
+  "description": "A simple React hook for detecting the use of an Ad Blocker by the user",
   "version": "1.0.0",
   "repository": "https://github.com/alii/ts-npm-template",
-  "author": "Alistair Smith <alistairsmith01@gmail.com>",
+  "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "eslint . --fix&&jest",
-    "prepublishOnly": "npm run test&&npm run build",
+    "prepublishOnly": "npm run build",
     "build": "tsc"
   },
   "main": "dist/index.js",

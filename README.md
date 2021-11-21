@@ -1,6 +1,6 @@
 # `useDetectAdBlocker`
 
-A simple React hook for detecting the use of an Ad Blocker by the user.
+🎙 A simple React hook for detecting the use of an Ad Blocker by the user.
 
 Built with TypeScript (built-in type safety and support).
 
@@ -25,3 +25,5 @@ const Component = () => {
     return {detect ? <Modal /> : <HomePage />}
 }
 ```
+
+Created and maintained with ❤️ by [**@FilippoFonseca**](https://twitter.com/FilippoFonseca).
