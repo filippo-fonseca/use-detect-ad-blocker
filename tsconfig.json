@@ -8,7 +8,8 @@
     "rootDir": "src",
     "outDir": "dist",
     "strict": true,
-    "importHelpers": true
+    "importHelpers": true,
+    "jsx": "react"
   },
   "exclude": ["node_modules", "dist", "__tests__"]
 }

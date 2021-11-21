@@ -11,6 +11,7 @@
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "type": "module",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.12.0",
     "@typescript-eslint/parser": "^4.12.0",
@@ -29,6 +30,8 @@
     "printWidth": 120
   },
   "dependencies": {
+    "@types/react": "17.0.36",
+    "react": "17.0.2",
     "tslib": "^2.1.0"
   }
 }
