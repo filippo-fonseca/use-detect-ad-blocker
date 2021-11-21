@@ -1,7 +1,7 @@
 {
   "name": "use-detect-ad-blocker",
   "description": "A simple React hook for detecting the use of an Ad Blocker by the user",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/filippo-fonseca/use-detect-ad-blocker",
   "author": "Filippo Fonseca <filifonsecacagnazzo@gmail.com>",
   "license": "MIT",

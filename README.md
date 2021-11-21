@@ -17,7 +17,7 @@ yarn add use-detect-ad-blocker
 The following is an example of how you might choose to use this hook:
 
 ```tsx
-imprt { useDetectAdBlocker } from "use-detect-ad-blocker";
+import { useDetectAdBlocker } from "use-detect-ad-blocker";
 
 const Component = () => {
     const detectAdBlocker = useDetectAdBlocker();
