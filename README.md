@@ -20,7 +20,7 @@ The following is an example of how you might choose to use this hook:
 import { useDetectAdBlocker } from "use-detect-ad-blocker";
 
 const Component = () => {
-    const detectAdBlocker = useDetectAdBlocker();
+    const detect = useDetectAdBlocker();
 
     return {detect ? <Modal /> : <HomePage />}
 }
